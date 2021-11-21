@@ -1,0 +1,182 @@
+Epoch 180 iteration 1: Loss 0.02209 Accumulated Loss 0.02209 
+Epoch 180 iteration 1: Accumulated Accuracy 29.75723 
+Epoch 180 iteration 2: Loss 0.02473 Accumulated Loss 0.02341 
+Epoch 180 iteration 2: Accumulated Accuracy 36.91940 
+Epoch 180 iteration 3: Loss 0.01448 Accumulated Loss 0.02043 
+Epoch 180 iteration 3: Accumulated Accuracy 46.31369 
+Epoch 180 iteration 4: Loss 0.02336 Accumulated Loss 0.02116 
+Epoch 180 iteration 4: Accumulated Accuracy 48.48581 
+Epoch 180 iteration 5: Loss 0.01959 Accumulated Loss 0.02085 
+Epoch 180 iteration 5: Accumulated Accuracy 52.40572 
+Epoch 180 iteration 6: Loss 0.02852 Accumulated Loss 0.02213 
+Epoch 180 iteration 6: Accumulated Accuracy 51.23697 
+Epoch 180 iteration 7: Loss 0.01294 Accumulated Loss 0.02081 
+Epoch 180 iteration 7: Accumulated Accuracy 52.93964 
+Epoch 180 iteration 8: Loss 0.02472 Accumulated Loss 0.02130 
+Epoch 180 iteration 8: Accumulated Accuracy 51.05062 
+Epoch 180 iteration 9: Loss 0.02314 Accumulated Loss 0.02151 
+Epoch 180 iteration 9: Accumulated Accuracy 51.13726 
+Epoch 180 iteration 10: Loss 0.02584 Accumulated Loss 0.02194 
+Epoch 180 iteration 10: Accumulated Accuracy 50.82264 
+Epoch 180 iteration 11: Loss 0.02927 Accumulated Loss 0.02261 
+Epoch 180 iteration 11: Accumulated Accuracy 50.24390 
+Epoch 180 iteration 12: Loss 0.02089 Accumulated Loss 0.02246 
+Epoch 180 iteration 12: Accumulated Accuracy 50.38455 
+Epoch 180 iteration 13: Loss 0.02524 Accumulated Loss 0.02268 
+Epoch 180 iteration 13: Accumulated Accuracy 50.37584 
+Epoch 180 iteration 14: Loss 0.01286 Accumulated Loss 0.02197 
+Epoch 180 iteration 14: Accumulated Accuracy 51.16308 
+Epoch 180 iteration 15: Loss 0.01732 Accumulated Loss 0.02166 
+Epoch 180 iteration 15: Accumulated Accuracy 51.40131 
+Epoch 180 iteration 16: Loss 0.01592 Accumulated Loss 0.02131 
+Epoch 180 iteration 16: Accumulated Accuracy 52.65463 
+Epoch 180 iteration 17: Loss 0.02870 Accumulated Loss 0.02174 
+Epoch 180 iteration 17: Accumulated Accuracy 52.69907 
+Epoch 180 iteration 18: Loss 0.02532 Accumulated Loss 0.02194 
+Epoch 180 iteration 18: Accumulated Accuracy 51.98154 
+Epoch 180 iteration 19: Loss 0.01916 Accumulated Loss 0.02179 
+Epoch 180 iteration 19: Accumulated Accuracy 52.09302 
+Epoch 180 iteration 20: Loss 0.01760 Accumulated Loss 0.02158 
+Epoch 180 iteration 20: Accumulated Accuracy 52.18357 
+Epoch 180 iteration 21: Loss 0.01186 Accumulated Loss 0.02112 
+Epoch 180 iteration 21: Accumulated Accuracy 52.35084 
+Epoch 180 iteration 22: Loss 0.01007 Accumulated Loss 0.02062 
+Epoch 180 iteration 22: Accumulated Accuracy 52.97544 
+Epoch 180 iteration 23: Loss 0.03877 Accumulated Loss 0.02141 
+Epoch 180 iteration 23: Accumulated Accuracy 52.20678 
+Epoch 180 iteration 24: Loss 0.02162 Accumulated Loss 0.02142 
+Epoch 180 iteration 24: Accumulated Accuracy 51.80285 
+Epoch 180 iteration 25: Loss 0.02165 Accumulated Loss 0.02143 
+Epoch 180 iteration 25: Accumulated Accuracy 51.84258 
+Epoch 180 iteration 26: Loss 0.02851 Accumulated Loss 0.02170 
+Epoch 180 iteration 26: Accumulated Accuracy 51.68222 
+Epoch 180 iteration 27: Loss 0.01347 Accumulated Loss 0.02139 
+Epoch 180 iteration 27: Accumulated Accuracy 52.03043 
+Epoch 180 iteration 28: Loss 0.02550 Accumulated Loss 0.02154 
+Epoch 180 iteration 28: Accumulated Accuracy 51.97940 
+Epoch 180 iteration 29: Loss 0.02214 Accumulated Loss 0.02156 
+Epoch 180 iteration 29: Accumulated Accuracy 51.84843 
+Epoch 180 iteration 30: Loss 0.01329 Accumulated Loss 0.02129 
+Epoch 180 iteration 30: Accumulated Accuracy 52.35211 
+Epoch 180 iteration 31: Loss 0.00891 Accumulated Loss 0.02089 
+Epoch 180 iteration 31: Accumulated Accuracy 52.98582 
+Epoch 180 iteration 32: Loss 0.03185 Accumulated Loss 0.02123 
+Epoch 180 iteration 32: Accumulated Accuracy 52.28173 
+Epoch 180 iteration 33: Loss 0.01293 Accumulated Loss 0.02098 
+Epoch 180 iteration 33: Accumulated Accuracy 52.93097 
+Epoch 180 iteration 34: Loss 0.01818 Accumulated Loss 0.02089 
+Epoch 180 iteration 34: Accumulated Accuracy 53.14783 
+Epoch 180 iteration 35: Loss 0.02436 Accumulated Loss 0.02099 
+Epoch 180 iteration 35: Accumulated Accuracy 52.80815 
+Epoch 180 iteration 36: Loss 0.01710 Accumulated Loss 0.02089 
+Epoch 180 iteration 36: Accumulated Accuracy 52.90730 
+Epoch 180 iteration 37: Loss 0.01581 Accumulated Loss 0.02075 
+Epoch 180 iteration 37: Accumulated Accuracy 53.10534 
+Epoch 180 iteration 38: Loss 0.01329 Accumulated Loss 0.02055 
+Epoch 180 iteration 38: Accumulated Accuracy 53.22352 
+Epoch 180 iteration 39: Loss 0.01916 Accumulated Loss 0.02052 
+Epoch 180 iteration 39: Accumulated Accuracy 53.58118 
+Epoch 180 iteration 40: Loss 0.02135 Accumulated Loss 0.02054 
+Epoch 180 iteration 40: Accumulated Accuracy 53.45496 
+Epoch 180 iteration 41: Loss 0.01980 Accumulated Loss 0.02052 
+Epoch 180 iteration 41: Accumulated Accuracy 53.56134 
+Epoch 180 iteration 42: Loss 0.01478 Accumulated Loss 0.02038 
+Epoch 180 iteration 42: Accumulated Accuracy 53.63335 
+Epoch 180 iteration 43: Loss 0.02353 Accumulated Loss 0.02046 
+Epoch 180 iteration 43: Accumulated Accuracy 53.42815 
+Epoch 180 iteration 44: Loss 0.00896 Accumulated Loss 0.02019 
+Epoch 180 iteration 44: Accumulated Accuracy 53.73381 
+Epoch 180 iteration 45: Loss 0.02127 Accumulated Loss 0.02022 
+Epoch 180 iteration 45: Accumulated Accuracy 53.77885 
+Epoch 180 iteration 46: Loss 0.01788 Accumulated Loss 0.02017 
+Epoch 180 iteration 46: Accumulated Accuracy 53.78458 
+Epoch 180 iteration 47: Loss 0.01831 Accumulated Loss 0.02013 
+Epoch 180 iteration 47: Accumulated Accuracy 53.80026 
+Epoch 180 iteration 48: Loss 0.03425 Accumulated Loss 0.02042 
+Epoch 180 iteration 48: Accumulated Accuracy 53.52103 
+Epoch 180 iteration 49: Loss 0.01840 Accumulated Loss 0.02038 
+Epoch 180 iteration 49: Accumulated Accuracy 53.55306 
+Epoch 180 iteration 50: Loss 0.02194 Accumulated Loss 0.02041 
+Epoch 180 iteration 50: Accumulated Accuracy 53.47683 
+Epoch 180 iteration 51: Loss 0.02341 Accumulated Loss 0.02047 
+Epoch 180 iteration 51: Accumulated Accuracy 53.66845 
+Epoch 180 iteration 52: Loss 0.01480 Accumulated Loss 0.02036 
+Epoch 180 iteration 52: Accumulated Accuracy 53.92260 
+Epoch 180 iteration 53: Loss 0.02138 Accumulated Loss 0.02038 
+Epoch 180 iteration 53: Accumulated Accuracy 54.02404 
+Epoch 180 iteration 54: Loss 0.01237 Accumulated Loss 0.02023 
+Epoch 180 iteration 54: Accumulated Accuracy 54.03852 
+Epoch 180 iteration 55: Loss 0.02373 Accumulated Loss 0.02030 
+Epoch 180 iteration 55: Accumulated Accuracy 53.84698 
+Epoch 180 iteration 56: Loss 0.02478 Accumulated Loss 0.02038 
+Epoch 180 iteration 56: Accumulated Accuracy 53.73442 
+Epoch 180 iteration 57: Loss 0.01142 Accumulated Loss 0.02022 
+Epoch 180 iteration 57: Accumulated Accuracy 53.87310 
+Epoch 180 iteration 58: Loss 0.01395 Accumulated Loss 0.02011 
+Epoch 180 iteration 58: Accumulated Accuracy 53.91053 
+Epoch 180 iteration 59: Loss 0.01983 Accumulated Loss 0.02011 
+Epoch 180 iteration 59: Accumulated Accuracy 53.89501 
+Epoch 180 iteration 60: Loss 0.00902 Accumulated Loss 0.01992 
+Epoch 180 iteration 60: Accumulated Accuracy 54.42379 
+Epoch 180 iteration 61: Loss 0.01543 Accumulated Loss 0.01985 
+Epoch 180 iteration 61: Accumulated Accuracy 54.67316 
+Epoch 180 iteration 62: Loss 0.01696 Accumulated Loss 0.01980 
+Epoch 180 iteration 62: Accumulated Accuracy 54.87166 
+Epoch 180 iteration 63: Loss 0.01111 Accumulated Loss 0.01966 
+Epoch 180 iteration 63: Accumulated Accuracy 54.81573 
+Epoch 180 iteration 64: Loss 0.02925 Accumulated Loss 0.01981 
+Epoch 180 iteration 64: Accumulated Accuracy 54.63749 
+Epoch 180 iteration 65: Loss 0.03264 Accumulated Loss 0.02001 
+Epoch 180 iteration 65: Accumulated Accuracy 54.38512 
+Epoch 180 iteration 66: Loss 0.02014 Accumulated Loss 0.02001 
+Epoch 180 iteration 66: Accumulated Accuracy 54.50389 
+Epoch 180 iteration 67: Loss 0.01680 Accumulated Loss 0.01996 
+Epoch 180 iteration 67: Accumulated Accuracy 54.65545 
+Epoch 180 iteration 68: Loss 0.02771 Accumulated Loss 0.02008 
+Epoch 180 iteration 68: Accumulated Accuracy 54.69031 
+Epoch 180 iteration 69: Loss 0.01951 Accumulated Loss 0.02007 
+Epoch 180 iteration 69: Accumulated Accuracy 54.54236 
+Epoch 180 iteration 70: Loss 0.01857 Accumulated Loss 0.02005 
+Epoch 180 iteration 70: Accumulated Accuracy 54.65199 
+Epoch 180 iteration 71: Loss 0.01403 Accumulated Loss 0.01996 
+Epoch 180 iteration 71: Accumulated Accuracy 54.77037 
+Epoch 180 iteration 72: Loss 0.02077 Accumulated Loss 0.01998 
+Epoch 180 iteration 72: Accumulated Accuracy 54.72861 
+Epoch 180 iteration 73: Loss 0.01997 Accumulated Loss 0.01998 
+Epoch 180 iteration 73: Accumulated Accuracy 54.80987 
+Epoch 180 iteration 74: Loss 0.02694 Accumulated Loss 0.02007 
+Epoch 180 iteration 74: Accumulated Accuracy 54.93433 
+Epoch 180 iteration 75: Loss 0.04772 Accumulated Loss 0.02044 
+Epoch 180 iteration 75: Accumulated Accuracy 54.70297 
+Epoch 180 iteration 76: Loss 0.01841 Accumulated Loss 0.02041 
+Epoch 180 iteration 76: Accumulated Accuracy 54.78567 
+Epoch 180 iteration 77: Loss 0.02107 Accumulated Loss 0.02042 
+Epoch 180 iteration 77: Accumulated Accuracy 54.74115 
+Epoch 180 iteration 78: Loss 0.01644 Accumulated Loss 0.02037 
+Epoch 180 iteration 78: Accumulated Accuracy 54.73926 
+Epoch 180 iteration 79: Loss 0.01841 Accumulated Loss 0.02034 
+Epoch 180 iteration 79: Accumulated Accuracy 54.86866 
+Epoch 180 iteration 80: Loss 0.01732 Accumulated Loss 0.02031 
+Epoch 180 iteration 80: Accumulated Accuracy 54.80018 
+Epoch 180 iteration 81: Loss 0.02507 Accumulated Loss 0.02037 
+Epoch 180 iteration 81: Accumulated Accuracy 54.75354 
+Epoch 180 iteration 82: Loss 0.01481 Accumulated Loss 0.02030 
+Epoch 180 iteration 82: Accumulated Accuracy 54.87194 
+Epoch 180 iteration 83: Loss 0.02005 Accumulated Loss 0.02029 
+Epoch 180 iteration 83: Accumulated Accuracy 54.88348 
+Epoch 180 iteration 84: Loss 0.01298 Accumulated Loss 0.02021 
+Epoch 180 iteration 84: Accumulated Accuracy 55.00559 
+Epoch 180 iteration 85: Loss 0.02258 Accumulated Loss 0.02024 
+Epoch 180 iteration 85: Accumulated Accuracy 54.99200 
+Epoch 180 iteration 86: Loss 0.02141 Accumulated Loss 0.02025 
+Epoch 180 iteration 86: Accumulated Accuracy 54.92814 
+Epoch 180 iteration 87: Loss 0.02182 Accumulated Loss 0.02027 
+Epoch 180 iteration 87: Accumulated Accuracy 54.89740 
+Epoch 180 iteration 88: Loss 0.01983 Accumulated Loss 0.02026 
+Epoch 180 iteration 88: Accumulated Accuracy 54.88439 
+Epoch 180 iteration 89: Loss 0.01260 Accumulated Loss 0.02018 
+Epoch 180 iteration 89: Accumulated Accuracy 54.89489 
+Epoch 180 iteration 90: Loss 0.01876 Accumulated Loss 0.02016 
+Epoch 180 iteration 90: Accumulated Accuracy 54.88111 
+Epoch 180 iteration 91: Loss 0.05334 Accumulated Loss 0.02052 
+Epoch 180 iteration 91: Accumulated Accuracy 54.73156 
