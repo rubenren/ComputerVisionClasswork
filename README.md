@@ -1,4 +1,4 @@
-# ComputerVisionClasswork
+# Computer Vision Classwork
 Classwork for my Computer vision courses
 ## CSE 152 work:
 - HW0
