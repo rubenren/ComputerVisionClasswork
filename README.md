@@ -24,3 +24,11 @@ Classwork for my Computer vision courses
   - Principal Compenent Analysis(PCA) with KNN
   - Deep Neural Network for image recognition
   - Convolutional Neural Network for image recognition
+
+## CSE 152B work:
+- HW1
+  - Structure from motion usintg a few different methods
+  - Optical Flow with Lucas-Kanade
+- HW3
+  - Image Segmentation using UNet
+  - Single Shot Detector for object detection
